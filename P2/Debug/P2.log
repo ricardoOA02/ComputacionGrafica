@@ -1,0 +1,9 @@
+﻿  P02-421018596.cpp
+C:\Users\ricar\Documents\2024-2\CGeIHC\P2\P2\P2\Window.h(12,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'P02-421018596.cpp')
+  
+C:\Users\ricar\Documents\2024-2\CGeIHC\P2\P2\P2\Window.h(13,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'P02-421018596.cpp')
+  
+C:\Users\ricar\Documents\2024-2\CGeIHC\P2\P2\P2\P02-421018596.cpp(17,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  P2.vcxproj -> C:\Users\ricar\Documents\2024-2\CGeIHC\P2\P2\Debug\P2.exe
