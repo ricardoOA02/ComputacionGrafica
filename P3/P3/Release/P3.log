@@ -1,0 +1,46 @@
+﻿  Camera.cpp
+  Mesh.cpp
+  P03-421018596.cpp
+C:\Users\ricar\Documents\2024-2\CGeIHC\P3\P3\P3\Window.h(12,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'P03-421018596.cpp')
+  
+C:\Users\ricar\Documents\2024-2\CGeIHC\P3\P3\P3\Window.h(13,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'P03-421018596.cpp')
+  
+C:\Users\ricar\Documents\2024-2\CGeIHC\P3\P3\P3\P03-421018596.cpp(27,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ricar\Documents\2024-2\CGeIHC\P3\P3\P3\P03-421018596.cpp(199,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ricar\Documents\2024-2\CGeIHC\P3\P3\P3\P03-421018596.cpp(241,32): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\ricar\Documents\2024-2\CGeIHC\P3\P3\P3\P03-421018596.cpp(241,32): warning C4244:         with
+C:\Users\ricar\Documents\2024-2\CGeIHC\P3\P3\P3\P03-421018596.cpp(241,32): warning C4244:         [
+C:\Users\ricar\Documents\2024-2\CGeIHC\P3\P3\P3\P03-421018596.cpp(241,32): warning C4244:             _Ty=GLfloat
+C:\Users\ricar\Documents\2024-2\CGeIHC\P3\P3\P3\P03-421018596.cpp(241,32): warning C4244:         ]
+C:\Users\ricar\Documents\2024-2\CGeIHC\P3\P3\P3\P03-421018596.cpp(243,32): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\ricar\Documents\2024-2\CGeIHC\P3\P3\P3\P03-421018596.cpp(243,32): warning C4244:         with
+C:\Users\ricar\Documents\2024-2\CGeIHC\P3\P3\P3\P03-421018596.cpp(243,32): warning C4244:         [
+C:\Users\ricar\Documents\2024-2\CGeIHC\P3\P3\P3\P03-421018596.cpp(243,32): warning C4244:             _Ty=GLfloat
+C:\Users\ricar\Documents\2024-2\CGeIHC\P3\P3\P3\P03-421018596.cpp(243,32): warning C4244:         ]
+C:\Users\ricar\Documents\2024-2\CGeIHC\P3\P3\P3\P03-421018596.cpp(339,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ricar\Documents\2024-2\CGeIHC\P3\P3\P3\P03-421018596.cpp(341,33): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+  Shader.cpp
+  Sphere.cpp
+C:\Users\ricar\Documents\2024-2\CGeIHC\P3\P3\P3\Sphere.cpp(39,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ricar\Documents\2024-2\CGeIHC\P3\P3\P3\Sphere.cpp(43,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Window.cpp
+C:\Users\ricar\Documents\2024-2\CGeIHC\P3\P3\P3\Window.h(12,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Window.cpp')
+  
+C:\Users\ricar\Documents\2024-2\CGeIHC\P3\P3\P3\Window.h(13,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Window.cpp')
+  
+C:\Users\ricar\Documents\2024-2\CGeIHC\P3\P3\P3\Window.cpp(149,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ricar\Documents\2024-2\CGeIHC\P3\P3\P3\Window.cpp(150,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ricar\Documents\2024-2\CGeIHC\P3\P3\P3\Window.cpp(154,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ricar\Documents\2024-2\CGeIHC\P3\P3\P3\Window.cpp(155,40): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ricar\Documents\2024-2\CGeIHC\P3\P3\P3\Window.cpp(157,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ricar\Documents\2024-2\CGeIHC\P3\P3\P3\Window.cpp(158,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\ricar\Documents\2024-2\CGeIHC\P3\P3\P3\Window.cpp(77): warning C4715: 'Window::Initialise': not all control paths return a value
+  All 604 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  P3.vcxproj -> C:\Users\ricar\Documents\2024-2\CGeIHC\P3\P3\Release\P3.exe
