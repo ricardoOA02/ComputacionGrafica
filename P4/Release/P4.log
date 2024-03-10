@@ -1,0 +1,46 @@
+﻿  Camera.cpp
+  Mesh.cpp
+  P04-421018596.cpp
+C:\Users\ricar\Documents\2024-2\CGeIHC\P4\P4\Window.h(12,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'P04-421018596.cpp')
+  
+C:\Users\ricar\Documents\2024-2\CGeIHC\P4\P4\Window.h(13,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'P04-421018596.cpp')
+  
+C:\Users\ricar\Documents\2024-2\CGeIHC\P4\P4\P04-421018596.cpp(31,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ricar\Documents\2024-2\CGeIHC\P4\P4\P04-421018596.cpp(197,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ricar\Documents\2024-2\CGeIHC\P4\P4\P04-421018596.cpp(239,32): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\ricar\Documents\2024-2\CGeIHC\P4\P4\P04-421018596.cpp(239,32): warning C4244:         with
+C:\Users\ricar\Documents\2024-2\CGeIHC\P4\P4\P04-421018596.cpp(239,32): warning C4244:         [
+C:\Users\ricar\Documents\2024-2\CGeIHC\P4\P4\P04-421018596.cpp(239,32): warning C4244:             _Ty=GLfloat
+C:\Users\ricar\Documents\2024-2\CGeIHC\P4\P4\P04-421018596.cpp(239,32): warning C4244:         ]
+C:\Users\ricar\Documents\2024-2\CGeIHC\P4\P4\P04-421018596.cpp(241,32): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\ricar\Documents\2024-2\CGeIHC\P4\P4\P04-421018596.cpp(241,32): warning C4244:         with
+C:\Users\ricar\Documents\2024-2\CGeIHC\P4\P4\P04-421018596.cpp(241,32): warning C4244:         [
+C:\Users\ricar\Documents\2024-2\CGeIHC\P4\P4\P04-421018596.cpp(241,32): warning C4244:             _Ty=GLfloat
+C:\Users\ricar\Documents\2024-2\CGeIHC\P4\P4\P04-421018596.cpp(241,32): warning C4244:         ]
+C:\Users\ricar\Documents\2024-2\CGeIHC\P4\P4\P04-421018596.cpp(334,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ricar\Documents\2024-2\CGeIHC\P4\P4\P04-421018596.cpp(336,33): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+  Shader.cpp
+  Sphere.cpp
+C:\Users\ricar\Documents\2024-2\CGeIHC\P4\P4\Sphere.cpp(39,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ricar\Documents\2024-2\CGeIHC\P4\P4\Sphere.cpp(43,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Window.cpp
+C:\Users\ricar\Documents\2024-2\CGeIHC\P4\P4\Window.h(12,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Window.cpp')
+  
+C:\Users\ricar\Documents\2024-2\CGeIHC\P4\P4\Window.h(13,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Window.cpp')
+  
+C:\Users\ricar\Documents\2024-2\CGeIHC\P4\P4\Window.cpp(196,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ricar\Documents\2024-2\CGeIHC\P4\P4\Window.cpp(197,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ricar\Documents\2024-2\CGeIHC\P4\P4\Window.cpp(201,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ricar\Documents\2024-2\CGeIHC\P4\P4\Window.cpp(202,40): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ricar\Documents\2024-2\CGeIHC\P4\P4\Window.cpp(204,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ricar\Documents\2024-2\CGeIHC\P4\P4\Window.cpp(205,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\ricar\Documents\2024-2\CGeIHC\P4\P4\Window.cpp(87): warning C4715: 'Window::Initialise': not all control paths return a value
+  All 613 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  P4.vcxproj -> C:\Users\ricar\Documents\2024-2\CGeIHC\P4\Release\P4.exe
