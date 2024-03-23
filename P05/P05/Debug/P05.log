@@ -1,0 +1,11 @@
+﻿  P05-421018596.cpp
+C:\Users\ricar\Documents\2024-2\CGeIHC\P05\P05\Window.h(12,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'P05-421018596.cpp')
+  
+C:\Users\ricar\Documents\2024-2\CGeIHC\P05\P05\Window.h(13,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'P05-421018596.cpp')
+  
+C:\Users\ricar\Documents\2024-2\CGeIHC\P05\P05\P05-421018596.cpp(196,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ricar\Documents\2024-2\CGeIHC\P05\P05\P05-421018596.cpp(198,33): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  P05.vcxproj -> C:\Users\ricar\Documents\2024-2\CGeIHC\P05\Debug\P05.exe
